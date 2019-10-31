@@ -31,3 +31,11 @@ P
  config/packages/nelmio_cors.yaml,c\7\c7cee19ef8bd16fdb92a74b9724402fea6a849d2
 O
 config/routes/api_platform.yaml,a\5\a5e4e90407c4d7ed0b28c28e9f8c25e070846ffe
+D
+config/services.yaml,8\7\87042d1f46b57381244d70e7a42feeb7710727dc
+O
+config/packages/easy_admin.yaml,5\f\5f0883335f25d423b6ebcd5adb84d6df0ab00120
+M
+config/routes/easy_admin.yaml,b\1\b1c978f62f636ed86b8fafd2b2ba29f123a01a36
+C
+src/Entity/User.php,0\a\0a3e99b9da178509aeb5b3fa6f5dce46bc0eb8be
